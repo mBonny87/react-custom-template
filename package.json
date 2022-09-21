@@ -1,0 +1,16 @@
+{
+  "name": "cra-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository":{
+    "type": "git",
+    "url": "git+https://https://github.com/Bonny79/react-custom-template.git"
+  },
+  "keywords": ["react", "react-template", "typescript", "eslint", "atomic-structure"],
+  "author": "",
+  "license": "ISC"
+}

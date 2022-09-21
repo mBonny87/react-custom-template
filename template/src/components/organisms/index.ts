@@ -1,0 +1,1 @@
+export {OrganismExample} from './OrganismExample';
