@@ -8,7 +8,7 @@
   },
   "repository":{
     "type": "git",
-    "url": "git+https://https://github.com/Bonny79/react-custom-template.git"
+    "url": "git+https://github.com/Bonny79/react-custom-template.git"
   },
   "keywords": ["react", "react-template", "typescript", "eslint", "atomic-structure"],
   "author": "Bonny79",
