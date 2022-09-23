@@ -1,5 +1,5 @@
 {
-  "name": "@bonny-dev/cra-template",
+  "name": "@bonny879/cra-template",
   "version": "1.0.0",
   "description": "This cra template has been created to work with TypeScript and ESlint rules. Even more, the atomic structure has already been prepared for you.",
   "main": "index.js",

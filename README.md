@@ -3,5 +3,5 @@ If you are looking to speed up the process of creating new react projects with t
 Here I have a created a custom template based on typescript with a configured eslint to keep your code as clean as possible. Even more, this template defines the atomic structure, in order to keep a good understanding on where we are in the project during the development process.
 
 ## How to
-Clone this repo and run this command at the top level (so outside template folder) <npx create-react-app app-name --template file:.>
-Soon I will create a npm account where I will publish this template, so this process will be avoided.
+Just open your terminal, maybe in your workspace folder and just type the same as you always do when you need to create a react application so:
+npx create-react-app <your-app-name> --template @bonny879/cra-template
