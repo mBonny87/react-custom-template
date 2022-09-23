@@ -1,7 +1,7 @@
 {
-  "name": "cra-template",
+  "name": "@bonny-dev/cra-template",
   "version": "1.0.0",
-  "description": "",
+  "description": "This cra template has been created to work with TypeScript and ESlint rules. Even more, the atomic structure has already been prepared for you.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
