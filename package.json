@@ -11,6 +11,6 @@
     "url": "git+https://https://github.com/Bonny79/react-custom-template.git"
   },
   "keywords": ["react", "react-template", "typescript", "eslint", "atomic-structure"],
-  "author": "",
+  "author": "Bonny79",
   "license": "ISC"
 }
